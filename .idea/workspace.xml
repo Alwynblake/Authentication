@@ -2,25 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="747fc77b-1935-4c74-9bf6-33c978fea36b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Authentication.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__tests__/src/auth/middleware.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__tests__/src/auth/router.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__tests__/supergoose.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/auth/middleware.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/auth/router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/auth/users-model.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middleware/404.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middleware/error.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/books.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/basic_auth.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572302290078</updated>
-      <workItem from="1572302291230" duration="7647000" />
+      <workItem from="1572302291230" duration="9741000" />
     </task>
     <servers />
   </component>
